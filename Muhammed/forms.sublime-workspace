@@ -1,0 +1,506 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"color",
+				"color-profile\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"bold",
+				"bolder\tfont-weight"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"ma",
+				"max\tAttr"
+			],
+			[
+				"MAX",
+				"maxlength\tAttr"
+			],
+			[
+				"f",
+				"form\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"h",
+				"h6\tTag"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ba",
+				"backface-visibility"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"bacg",
+				"background-image"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"MARG",
+				"margin-left"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"t",
+				"text-transform"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"r",
+				"Register"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"FONT",
+				"font-size"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html5.html",
+			"settings":
+			{
+				"buffer_size": 790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "boilerplate.html",
+			"settings":
+			{
+				"buffer_size": 189,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "favicon.html",
+			"settings":
+			{
+				"buffer_size": 186,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/ajayibembe/forms.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/googlehompage",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/htmltags.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/index.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/html5.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/EZEKIEL/external-css",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/favicon.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/webp/html5.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/ajayibembe/formshtml",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/ajayibembe/forms.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/forms.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/boilerplate.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/images.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/index.html",
+		"/C/Program Files/Sublime Text 3/form.html",
+		"/C/Program Files/Sublime Text 3/font.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/boilerplate.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/index.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/FORMS.HTML",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/formlesson.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/htmlblocks.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Videos/codelagos tbabs/mzl.htm",
+		"/C/Program Files/Sublime Text 3/t.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/codelagos tbabs/index.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/codelagos tbabs/boilerplate.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/codelagos tbabs/htmlblocks.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/codelagos tbabs/FORMS.HTML",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/CodeLagos/Muhammed/HyperText Markup Language",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/Engr IB.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/webdev class tbabs/index.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/webdev class tabs/index.html",
+		"/E/codelagos/dami codelagos/css/googlefont.css",
+		"/E/bootstrap-3.3.7-dist/indd.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/ins class 7.html",
+		"/E/codelagos/dami codelagos/css/assignment.css",
+		"/E/codelagos/dami codelagos/css/style.css",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/bootstrap/bootstrap-3.3.7-dist/my-school.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/bootstrap/bootstrap-3.3.7-dist/my-codelagos.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/bootstrap/bootstrap-3.3.7-dist/index.html",
+		"/E/codelagos/dami codelagos/ fonts class9.html",
+		"/E/codelagos/dami codelagos/ogunmolaforum.html",
+		"/E/bootstrap-3.3.7-dist/css/bootstrap.min.css",
+		"/E/codelagos/dami codelagos/class 9",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/class 8.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/classwork.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/class 6 external.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/week5",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/week5.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/week7 class",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/class 7.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/css/style.css",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/index.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/index2.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/css class five.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/week7.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/exercise.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/website.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/register.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/sharaf/week7",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/class 5.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/class6.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/class6 embedded.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/style.css",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/exercise",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/classes and ids.html",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/dami codelagos/forms",
+		"/C/Users/ONIKAN YOUTH CENTRE2/Desktop/festus/index html.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 107.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html5.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "boilerplate.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 189,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "favicon.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "forms.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 159.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
